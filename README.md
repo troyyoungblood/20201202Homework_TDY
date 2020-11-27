@@ -75,9 +75,3 @@ Three observable trends
 * The majority of the participants, 77%,  fall in the three age ranges, 15-19, 20-24 and 25-29. Age range 20-24 has the highest percentage at 45%.
 
 * Age range 35-39, followed by age range <10, spend the most per purchase.
-
-
-
-
-* You must include a written description of three observable trends based on the data.
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
